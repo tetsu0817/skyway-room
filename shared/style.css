@@ -70,8 +70,8 @@ video {
 }
 
 .room .messages {
-  /* background-color: #eee; */
-  background-color: red;
+  background-color: #eee;
+  /* background-color: red; */
   min-height: 100px;
   padding: 8px;
   margin-top: 0;
