@@ -89,5 +89,6 @@ video {
 
 #test3{
   /* border-style: solid red;border-width: 1px red; */
-  border: solid 1px red;
+  /* border: solid 1px red; */
+  border: solid 1px;
 }
