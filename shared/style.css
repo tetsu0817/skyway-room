@@ -28,6 +28,10 @@ video {
   width: 980px;
 }
 
+.container {  // 2020/06/15 add
+  border-style: solid;border-width: 1px;
+}
+
 /* p2p-media styles */
 .p2p-media {
   display: flex;
@@ -63,6 +67,10 @@ video {
   grid-template-columns: 30% 40% 30%;
   gap: 8px;
   margin: 0 8px;
+}
+
+.room {  // 2020/06/15 add
+  border-style: solid;border-width: 1px;
 }
 
 .room .remote-streams {
