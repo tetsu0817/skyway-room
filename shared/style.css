@@ -113,3 +113,7 @@ video {
   /* border: solid 1px red; */
   /* border: solid 1px; */
 }
+
+#test4{
+  border-style: solid;border-width: 1px;
+}
