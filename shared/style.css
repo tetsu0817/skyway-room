@@ -87,7 +87,11 @@ video {
 
 /* add 2020/06/15 */
 
-#test0{
+#test0-1{
+  border-style: solid;border-width: 1px;
+}
+
+#test0-2{
   border-style: solid;border-width: 1px;
 }
 
